@@ -23,7 +23,7 @@
 - Eu tenho experiencia com SO 🐧Linux and 🪟Windows
 - 📫 Como você pode me achar?: 
 -                     🏖️meu instagram é :https://www.instagram.com/matheus.roquedebrito/
--                     👔meu linkedin é :https://www.linkedin.com/in/matheus-rock-b835671a6/
+-                     👔meu linkedin é :https://www.linkedin.com/in/matheus-roque-b835671a6/
 
  <div>
   <a href="https://github.com/matheusroquedebrito">
@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/matheus.roquedebrito/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/mathoprogramador" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="ttps://www.linkedin.com/in/matheus-rock-b835671a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/matheus-roque-b835671a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
