@@ -1,12 +1,13 @@
 ### Hi i am Matheus Roque👋
-
+- 🇧🇷i am brazilian
+- 🇺🇳i speak: 🇺🇸english,🇧🇷portuguese,🇪🇸spanish
 - 🌱 I’m currently learning PHP, HTML, CSS, SQL
 - 👯 I’m looking to collaborate on C, PYTHON, SQL, HTML,CSS programms, focusing in cybersecurity or development
 - 🤔 I’m looking for help with development and cybersecurity in industries and website
 - 💬 Ask me about my projects and repositories and job
--👶Today i work in clinic of neurohabilitation
--i have very interessing in work in TI area, i love the area of web and cybersecurity
--i have experience in OS 🐧Linux and 🪟Windows
+- 👶Today i work in clinic of neurohabilitation
+- i have very interessing in work in TI area, i love the area of web and cybersecurity
+- i have experience in OS 🐧Linux and 🪟Windows
 - 📫 How to reach me: 
 -                   🏖️my instagram is : https://www.instagram.com/matheus.roquedebrito/
 -                     👔my linkedin is :https://www.linkedin.com/in/matheus-rock-b835671a6/
