@@ -9,7 +9,7 @@
 - i have very interessing in work in TI area, i love the area of web and cybersecurity
 - i have experience in OS 🐧Linux and 🪟Windows
 - 📫 How to reach me: 
--                   🏖️my instagram is : https://www.instagram.com/matheus.roquedebrito/
+-                   🏖️my instagram is : https://www.instagram.com/matheusroquedev/
 -                     👔my linkedin is :https://www.linkedin.com/in/matheus-rock-b835671a6/
 
 
@@ -23,7 +23,7 @@
 - Eu tenho muito interesse na area de TI e na area de cybersecurity 
 - Eu tenho experiencia com SO 🐧Linux and 🪟Windows
 - 📫 Como você pode me achar?: 
--                     🏖️meu instagram é :https://www.instagram.com/matheus.roquedebrito/
+-                     🏖️meu instagram é :https://www.instagram.com/matheusroquedev/
 -                     👔meu linkedin é :https://www.linkedin.com/in/matheus-roque-b835671a6/
 
  <div>
@@ -34,9 +34,9 @@
 <div style="display: inline_block"><br>
   
 <a href="https://www.youtube.com/channel/UCbTVlbFomvrb3A4dKlLXNNw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/matheus.roquedebrito/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/matheusroquedev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/mathoprogramador" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@matheus.roqueprofissional"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-roque-b835671a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  ![Snake animation](https://github.com/matheusroquedebrito/matheusroquedebrito/blob/output/github-contribution-grid-snake.svg)
 </div>
